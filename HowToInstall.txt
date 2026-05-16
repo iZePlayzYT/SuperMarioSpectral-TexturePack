@@ -1,7 +1,8 @@
-Super Mario Galaxy 63 – 4K Texture Pack (DDS)
+Super Mario Spectral – 4K Texture Pack (DDS)
 
-This 4K texture pack is for Super Mario Galaxy 63, a ROM hack of Super Mario Galaxy 2.
-It improves the game's visuals with higher quality textures optimized for Dolphin Emulator.
+This texture pack was created for Super Mario Spectral, a ROM hack of Super Mario Galaxy 2.
+It improves the visuals with high-resolution 4K textures optimized for Dolphin Emulator.
+👉 The texture pack is also FULLY COMPATIBLE with original (vanilla) Super Mario Galaxy 2.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 INSTALLATION
@@ -30,7 +31,7 @@ MORE INFORMATION
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 PNG textures and unmodified texture dumps are available in the GitHub repository:
-https://github.com/iZePlayzYT/SuperMarioGalaxy63-TexturePack
+https://github.com/iZePlayzYT/SuperMarioSpectral-TexturePack
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 CREDITS

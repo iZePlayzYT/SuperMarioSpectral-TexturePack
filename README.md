@@ -1,6 +1,6 @@
-# **Super Mario Galaxy 63 & Original SMG2 - 4K Texture Pack**
+# **Super Mario Spectral & Original SMG2 - 4K Texture Pack**
 
-This texture pack was created for Super Mario Galaxy 63, a ROM hack of Super Mario Galaxy 2.
+This texture pack was created for Super Mario Spectral, a ROM hack of Super Mario Galaxy 2.
 It improves the visuals with high-resolution 4K textures optimized for Dolphin Emulator.
 👉 The texture pack is also FULLY COMPATIBLE with original (vanilla) Super Mario Galaxy 2.
 
@@ -8,7 +8,7 @@ It improves the visuals with high-resolution 4K textures optimized for Dolphin E
 * **PNG Texture Pack** – For development/editing only (do **not** use in-game)
 
 > **Just want to play?** Download the **latest release** here instead of cloning the whole repo:
-> **Releases:** [https://github.com/iZePlayzYT/SuperMarioGalaxy63-TexturePack/releases](https://github.com/iZePlayzYT/SuperMarioGalaxy63-TexturePack/releases)
+> **Releases:** [https://github.com/iZePlayzYT/SuperMarioSpectral-TexturePack/releases](https://github.com/iZePlayzYT/SuperMarioSpectral-TexturePack/releases)
 
 ---
 
